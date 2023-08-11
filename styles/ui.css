@@ -1,0 +1,8 @@
+:root {
+    --primary-title: #E72F7C;
+}
+.title {
+    color: var(--primary-title);
+    font-size: 24px;
+    cursor: pointer;
+}
